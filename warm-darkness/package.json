@@ -1,0 +1,26 @@
+{
+  "name": "warm-darkness",
+  "displayName": "Warm Darkness",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "Eduard Zorici",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/warm-darkness-vscode"
+  },
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Warm Darkness",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Warm Darkness-color-theme.json"
+      }
+    ]
+  }
+}
