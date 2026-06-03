@@ -1,19 +1,38 @@
 {
   "name": "warm-darkness",
   "displayName": "Warm Darkness",
-  "description": "",
+  "description": "A deep night-dark theme with warm golden accents. Rich per-language syntax coloring for HTML, CSS/SCSS, JavaScript, TypeScript, PHP, SQL, Markdown and more.",
   "version": "0.0.1",
   "publisher": "edizorici",
+  "license": "MIT",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/warm-darkness-vscode"
+    "url": "https://github.com/edizorici/warm-darkness-vscode"
   },
+  "bugs": {
+    "url": "https://github.com/edizorici/warm-darkness-vscode/issues"
+  },
+  "homepage": "https://github.com/edizorici/warm-darkness-vscode#readme",
+  "keywords": [
+    "theme",
+    "color-theme",
+    "dark",
+    "warm",
+    "night",
+    "gold",
+    "syntax highlighting"
+  ],
   "engines": {
     "vscode": "^1.76.0"
   },
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "#0c141c",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
