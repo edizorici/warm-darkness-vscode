@@ -1,0 +1,5 @@
+.vscode/**
+vsc-extension-quickstart.md
+*.vsix
+.gitignore
+.git/**
